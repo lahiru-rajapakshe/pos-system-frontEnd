@@ -1,7 +1,7 @@
-17529
-67/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/ts/main.ts1651225549109000000 0
-76/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/manage-members.html1651221289955000000 0
-56/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src1651287498278769134 1
+17530
+70/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/settings.html1651287665169000000 0
+67/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/ts/main.ts1651289835950800288 0
+56/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src1651289651166592422 1
 66/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/tsconfig.json1651283903508514270 0
 93/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/datatables.net-select/types1651286921438419328 1
 99/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/datatables.net-select/License.txt1651286921174408026 0
@@ -15,6 +15,7 @@
 108/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/popper.js/src/modifiers/preventOverflow.js1651286922586468474 0
 105/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/popper.js/src/utils/getReferenceNode.js1651286922698473268 0
 106/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/popper.js/src/utils/isModifierEnabled.js1651286922750475494 0
+74/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/manage-items.html1651289651126592298 0
 103/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/popper.js/src/utils/getWindowSizes.js1651286922734474809 0
 102/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/popper.js/src/utils/includeScroll.js1651286922734474809 0
 98/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/popper.js/src/utils/isNumeric.js1651286922754475665 0
@@ -1843,6 +1844,7 @@
 97/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/imagesloaded/sandbox/background1651286921822435767 1
 106/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/imagesloaded/sandbox/progress/index.html1651286921858437308 0
 95/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/imagesloaded/sandbox/progress1651286921858437308 1
+78/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/manage-customers.html1651287665169416257 0
 86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/imagesloaded/sandbox1651286921834436281 1
 84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/bs-stepper/LICENSE1651286920978399634 0
 104/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/bs-stepper/dist/css/bs-stepper.css.map1651286921534423437 0
@@ -5206,7 +5208,7 @@
 114/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/jqvmap-novulnerability/examples/images/globe.png1651286923006486453 0
 76/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/sparklines1651286921206409395 1
 85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/inputmask/README.md1651286922310456658 0
-84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-brands-400.5f453b15.svg1651287238895888831 0
+84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-brands-400.5f453b15.svg1651289504721853648 0
 98/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/dist/plugin/databasic1651286923638513506 1
 86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/terser/lib/output.js1651283022535473643 0
 85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/inputmask/bundle.js1651286921258411621 0
@@ -5558,7 +5560,7 @@
 86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/fullcalendar/main.js1651286922470463507 0
 101/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/caniuse-lite/data/regions/alt-oc.js1651283022239462837 0
 95/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/mdn-data/api/inheritance.json1651283022167460210 0
-86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-regular-400.d611c74d.woff1651287238799884787 0
+86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-regular-400.d611c74d.woff1651289504617852901 0
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/fullcalendar/locales/km.js1651286921966441932 0
 93/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/moment/dist/locale/es-us.js1651286922746475323 0
 104/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/src/util/operation_group.js1651286923386502719 0
@@ -7000,7 +7002,7 @@
 120/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb.c1651283022483471744 0
 120/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/solid/snowflake.svg1651286923926525834 0
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/fs-extra/lib/json/index.js1651286921658428746 0
-84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/user2-160x160.813ee5c4.jpg1651287238919889843 0
+84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/user2-160x160.813ee5c4.jpg1651289504741853792 0
 86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/es5-ext/package.json1651286923310499465 0
 119/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/tempusdominus-bootstrap-4/node_modules/bootstrap/scss1651286923198494672 1
 84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/toastr/.travis.yml1651286922482464021 0
@@ -7086,7 +7088,7 @@
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/inputmask/lib/keycode.json1651286922286455631 0
 110/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/codemirror/mode/vue/vue.js1651286926074617771 0
 97/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/bootstrap-colorpicker/README.md1651286922230453234 0
-79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.2c3869ec.js.map1651287238939890685 0
+79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.2c3869ec.js.map1651289504769853993 0
 83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/mode/q1651286923454505629 1
 114/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/filterizr/src/Filterizr/installAsJQueryPlugin.ts1651286923410503746 0
 113/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/static-eval/node_modules/escodegen/package.json1651286921466420527 0
@@ -7179,7 +7181,7 @@
 79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/color-convert1651283021999454077 1
 123/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/ion-rangeslider/css/ion.rangeSlider.css1651286925466591749 0
 85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/graceful-fs/LICENSE1651286920974399463 0
-68/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.html1651287498854793212 0
+68/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.html1651289504721853648 0
 104/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/diagnostic/lib/diagnostic.d.ts1651283022051455976 0
 116/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/node_modules/bootstrap/scss/_images.scss1651286923110490905 0
 93/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/shallow-copy/test/object.js1651286921422418642 0
@@ -8005,7 +8007,7 @@
 97/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/caniuse-lite/data/regions/GB.js1651283022875486052 0
 116/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/brands/sass.svg1651286923910525149 0
 90/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/moment/dist/locale/uz.js1651286923606512136 0
-74/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/manage-books.html1651221289955000000 0
+74/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/manage-books.html1651287665169416257 0
 110/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/fullcalendar/locales/kk.js1651286925450591064 0
 87/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/addon/mode1651286923518508369 1
 115/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@foliojs-fork/fontkit/src/tables/WOFFDirectory.js1651286922766476179 0
@@ -8496,7 +8498,7 @@
 104/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/es5-ext/number/is-integer/implement.js1651286922622470014 0
 93/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/moment/dist/locale/en-ie.js1651286922610469501 0
 103/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@swc/helpers/lib/_set_prototype_of.js1651283022343466634 0
-75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.425f4cf3.js1651287238927890179 0
+75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.425f4cf3.js1651289504757853907 0
 105/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/filterizr/src/StyledFilterizrElement.ts1651286923434504773 0
 98/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/moment/src/lib/moment/to-type.js1651286923570510595 0
 95/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/merge-source-map/package.json1651286920874395182 0
@@ -8564,7 +8566,7 @@
 87/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/mode/sieve1651286923518508369 1
 126/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/jqvmap-novulnerability/dist/maps/jquery.vmap.usa.counties.js1651286922858480117 0
 107/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@popperjs/core/dist/esm/modifiers/hide.js1651286923046488165 0
-80/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.62015f08.css.map1651287238919889843 0
+80/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.62015f08.css.map1651289504741853792 0
 143/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/escodegen/node_modules/source-map/test/source-map/test-source-map-consumer.js1651286921570424979 0
 93/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/fs/src/OverlayFS.js1651283022147459480 0
 87/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/lmdb/dependencies/lz41651283022239462837 1
@@ -8709,7 +8711,7 @@
 98/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/resolve/test/pathfilter/deep_ref1651286922486464192 1
 116/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@babel/highlight/node_modules/ansi-styles/index.js1651283021927451445 0
 120/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/codemirror/addon/fold/foldgutter.css1651286926010615031 0
-83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/AdminLTELogo.d2299605.png1651287238919889843 0
+83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/AdminLTELogo.d2299605.png1651289504741853792 0
 110/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/select2/src/js/select2/compat/dropdownCss.js1651286922242453747 0
 130/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/bootstrap-colorpicker/node_modules/bootstrap/scss/_carousel.scss1651286923490507171 0
 107/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/src/font/icons/float-right.svg1651286923694515903 0
@@ -8756,7 +8758,7 @@
 89/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/addon/search1651286923506507855 1
 86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/Dockerfile1651286921366416245 0
 104/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/codemirror/mode/mirc1651286926050616743 1
-85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-solid-900.9f1c9e2f.woff21651287238803884957 0
+85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-solid-900.9f1c9e2f.woff21651289504621852929 0
 96/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/static-module/test/vars/one.js1651286922178451007 0
 75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/ast-types1651286921726431657 1
 80/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/css-select/lib1651283022307465319 1
@@ -8772,7 +8774,7 @@
 97/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/toastr/nuget/toastr.1.1.1.nupkg1651286921990442959 0
 71/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/json51651283022171460355 1
 95/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@lezer/common/dist/index.d.ts1651283022099457728 0
-76/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.7fdcaa95.css1651287238895888831 0
+76/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.7fdcaa95.css1651289504721853648 0
 94/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/mode/haxe/haxe.js1651286923178493816 0
 90/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/ext/function/identity.js1651286921798434740 0
 79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/ast-types/lib1651286921690430116 1
@@ -8796,7 +8798,7 @@
 100/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/filterizr/src/FilterItem/styles.ts1651286923394503061 0
 102/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/datatables.net-searchpanes/Readme.md1651286921206409395 0
 101/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/es5-ext/object/is-natural-number.js1651286923126491589 0
-80/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.8fbb3f4b.css.map1651287238919889843 0
+80/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.8fbb3f4b.css.map1651289504741853792 0
 118/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/solid/gopuram.svg1651286923786519841 0
 101/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/filterizr/dist/Spinner/Spinner.d.ts1651286923318499808 0
 105/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/ion-rangeslider/css/ion.rangeSlider.css1651286921462420355 0
@@ -8806,7 +8808,7 @@
 133/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg/foo1651283022091457436 1
 87/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/posthtml/package.json1651283021947452176 0
 84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/webidl-conversions1651283021855448814 1
-79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.ca39cc5e.js.map1651287498858793379 0
+79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.ca39cc5e.js.map1651289836490799945 0
 96/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/es5-ext/math/sinh/implement.js1651286922570467788 0
 76/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/d/index.js1651286921298413334 0
 82/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/entities/LICENSE1651283020999417528 0
@@ -8831,7 +8833,7 @@
 113/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/lmdb/prebuilds/linux-arm64/node.abi93.musl.node1651283023099494225 0
 99/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/css-tree/lib/syntax/node/Value.js1651283022783482695 0
 96/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/flag-icon-css/flags/1x1/vg.svg1651286923662514533 0
-83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-solid-900.37e54b41.svg1651287238895888831 0
+83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-solid-900.37e54b41.svg1651289504721853648 0
 116/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@popperjs/core/dist/esm/dom-utils/getParentNode.js1651286923010486624 0
 90/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/reporter-cli/src1651283022203461523 1
 109/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/filterizr/src/types/interfaces/Styleable.ts1651286923458505801 0
@@ -8858,7 +8860,7 @@
 97/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/reporter-dev-server/lib1651283022335466342 1
 124/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/fontawesome-free/css/svg-with-js.min.css1651286924782562473 0
 94/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/filterizr/src/utils/merge.ts1651286923474506485 0
-76/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.8fbb3f4b.css1651287238895888831 0
+76/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.8fbb3f4b.css1651289504721853648 0
 91/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/static-module/security.md1651286922418461282 0
 89/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@trysound/sax/README.md1651283021995453930 0
 114/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/flag-icon-css/flags/4x3/ly.svg1651286925874609210 0
@@ -8888,7 +8890,6 @@
 103/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/utility-types/dist/utility-types.d.ts1651283022171460355 0
 106/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/resolve/test/resolver/other_path/root.js1651286922570467788 0
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/get-intrinsic/package.json1651286921398417615 0
-73/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/issue-books.html1651221289955000000 0
 130/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/bootstrap-colorpicker/node_modules/bootstrap/js/dist/carousel.js1651286922602469158 0
 113/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/acorn-node/node_modules/acorn/dist/acorn.js.map1651286921830436110 0
 75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@trysound1651283017187277764 1
@@ -8912,14 +8913,14 @@
 121/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/solid/file-image.svg1651286923758518642 0
 80/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/nan/nan_json.h1651283022171460355 0
 142/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/bootstrap-colorpicker/node_modules/bootstrap/dist/css/bootstrap-grid.rtl.css1651286921610426691 0
-84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-brands-400.4226d323.eot1651287238807885125 0
+84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-brands-400.4226d323.eot1651289504621852929 0
 148/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/filterizr/makeLayoutPositions/makeSameHeightLayoutPositions.d.ts1651286925914610923 0
 106/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/moment/locale/ar-tn.js1651286925110576512 0
 100/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/ext/node_modules/type/plain-object1651286922082446898 1
 106/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/dist/lang/summernote-gl-ES.js1651286923318499808 0
 94/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/inputmask/lib/environment.js1651286921462420355 0
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/dropzone1651286926094618626 1
-52/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd1651287236407784028 1
+52/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd1651289502045834319 1
 98/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/yaml/dist/resolveSeq-d03cb037.js1651283022323465904 0
 117/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/static-module/node_modules/estraverse/estraverse.js1651286921262411793 0
 146/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/tempusdominus-bootstrap-4/node_modules/bootstrap/dist/css/bootstrap-grid.css.map1651286922538466419 0
@@ -8943,7 +8944,7 @@
 100/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/node-addon-api/tools/check-napi.js1651283022191461085 0
 81/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/sweetalert2/src1651286922446462480 1
 108/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/posthtml/node_modules/posthtml-parser/dist1651283022051455976 1
-79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.098472cb.js.map1651287238939890685 0
+79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.098472cb.js.map1651289504769853993 0
 105/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/node_modules/bootstrap/js/src1651286922486464192 1
 83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/brfs/package.json1651286920974399463 0
 75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/crypto-js1651286922174450836 1
@@ -8966,10 +8967,10 @@
 102/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/jqvmap-novulnerability/.editorconfig1651286921178408196 0
 102/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/datatables.net-rowgroup/package.json1651286920974399463 0
 86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/ext/string/random.js1651286922110448097 0
-84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-brands-400.2b0bc061.ttf1651287238807885125 0
+84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-brands-400.2b0bc061.ttf1651289504625852958 0
 96/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/htmlparser2/lib/index.d.ts.map1651283022083457143 0
 99/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/ext/global-this/implementation.js1651286921858437308 0
-57/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist1651287498862793546 1
+57/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist1651289836498799940 1
 94/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/readable-stream/node_modules1651286918042273923 1
 126/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/datatables-buttons/js/buttons.html5.min.js1651286925402589009 0
 126/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/solid/arrow-circle-up.svg1651286923274497925 0
@@ -9104,7 +9105,7 @@
 96/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/flag-icon-css/flags/1x1/nu.svg1651286923450505459 0
 108/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/examples/ondialog-multitab.html1651286923170493473 0
 99/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/select2/src/js/select2/options.js1651286922578468131 0
-85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-regular-400.054e1bb6.eot1651287238799884787 0
+85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-regular-400.054e1bb6.eot1651289504617852901 0
 97/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/caniuse-lite/data/regions/DZ.js1651283022859485469 0
 107/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/src/font/icons/orderedlist.svg1651286923698516074 0
 117/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/regular/copy.svg1651286923638513506 0
@@ -9135,7 +9136,7 @@
 116/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/has-symbols/test/shams/get-own-property-symbols.js1651286921326414533 0
 111/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/caniuse-lite/data/features/media-fragments.js1651283022927487951 0
 94/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/mode/sass/sass.js1651286923490507171 0
-76/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.62015f08.css1651287238895888831 0
+76/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.62015f08.css1651289504721853648 0
 106/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/regexp.prototype.flags/implementation.js1651286921302413505 0
 94/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/posthtml-parser/changelog.md1651283021999454077 0
 111/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/watcher/src/windows/WindowsBackend.cc1651283022191461085 0
@@ -9169,7 +9170,7 @@
 100/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/jqvmap-novulnerability/src/Base.js1651286923130491761 0
 90/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/json5/dist/index.min.mjs1651283022191461085 0
 108/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/static-eval/node_modules/esutils/README.md1651286921214409738 0
-75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.098472cb.js1651287238931890347 0
+75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.098472cb.js1651289504757853907 0
 100/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/mode/fortran/fortran.js1651286923082489706 0
 122/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/bootstrap-slider/test/specs/ElementDataAttributesSpec.js1651286922186451350 0
 142/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob1651283022815483862 1
@@ -9207,7 +9208,7 @@
 100/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/resolve/test/node-modules-paths.js1651286922530466076 0
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/flot/docs/composeImages.md1651286922370459227 0
 114/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/runtime-js/lib/helpers/node/js-loader.js1651283022243462984 0
-75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.2c3869ec.js1651287238931890347 0
+75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.2c3869ec.js1651289504757853907 0
 113/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/resolve/test/resolver/invalid_main/package.json1651286922658471555 0
 105/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/src/lang/summernote-az-AZ.js1651286923558510081 0
 110/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/dist/lang/summernote-ar-AR.js.map1651286923206495014 0
@@ -9222,7 +9223,7 @@
 101/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/datatables.net-colreorder/Readme.md1651286921206409395 0
 87/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/htmlnano/CHANGELOG.md1651283022563474664 0
 115/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/solid/crow.svg1651286923654514191 0
-75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.34b2f162.js1651287238931890347 0
+75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.34b2f162.js1651289504757853907 0
 93/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/css-tree/lib/lexer/index.js1651283022695479483 0
 101/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/datatables.net-rowgroup/License.txt1651286921174408026 0
 91/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/ext/docs/math/round-10.md1651286922326457343 0
@@ -9250,7 +9251,7 @@
 83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/js-tokens/LICENSE1651283021927451445 0
 137/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/datatables-fixedheader/css/fixedHeader.bootstrap4.css1651286925414589523 0
 109/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/ion-rangeslider/readme.md1651286925470591919 0
-84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-solid-900.c8d06f8f.woff1651287238807885125 0
+84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-solid-900.c8d06f8f.woff1651289504621852929 0
 115/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest5.c1651283022679478898 0
 90/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/css-tree/lib/syntax/node1651283022791482987 1
 80/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/weak-lru-cache1651283022063456413 1
@@ -9542,7 +9543,7 @@
 115/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/datatables.net-scroller/js/dataTables.scroller.js1651286921254411451 0
 73/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/globals1651283022019454808 1
 130/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css.map1651286922118448439 0
-85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-brands-400.1730bea4.woff1651287238803884957 0
+85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-brands-400.1730bea4.woff1651289504617852901 0
 132/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/dom-serializer/node_modules/entities/lib/decode_codepoint.d.ts.map1651283022119458458 0
 89/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/moment/src/locale/sw.js1651286923530508883 0
 113/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/core/lib/requests/ParcelBuildRequest.js1651283022719480358 0
@@ -9736,7 +9737,7 @@
 89/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/daterangepicker/website1651286921986442788 1
 115/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/runtime-js/lib/helpers/node/css-loader.js1651283022147459480 0
 97/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/caniuse-lite/data/regions/LI.js1651283022919487659 0
-87/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-regular-400.6ddd97e4.woff21651287238799884787 0
+87/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-regular-400.6ddd97e4.woff21651289504617852901 0
 114/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/filterizr/src/types/interfaces/SpinnerOptions.ts1651286923454505629 0
 104/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/popper.js/dist/popper-utils.min.js.map1651286921610426691 0
 101/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/tempusdominus-bootstrap-4/README.md1651286921770433541 0
@@ -9886,7 +9887,7 @@
 109/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/src/styles/lite/js/DropdownUI.js1651286923742517958 0
 108/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/filterizr/src/makeLayoutPositions/index.ts1651286923418504088 0
 85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/mode/tcl1651286923566510424 1
-59/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/ts1651287466073422427 1
+59/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/ts1651289835986800266 1
 89/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@foliojs-fork/pdfkit/js1651286922514465391 1
 98/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/css-tree/lib/syntax/node/Hash.js1651283022575475103 0
 135/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/tempusdominus-bootstrap-4/node_modules/bootstrap/dist/js/bootstrap.js1651286922154449980 0
@@ -9985,7 +9986,7 @@
 118/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/regular/smile.svg1651286923926525834 0
 96/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/flag-icon-css/flags/4x3/au.svg1651286922246453918 0
 104/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/codemirror/mode/haml1651286926038616230 1
-83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-solid-900.ae7a564d.ttf1651287238815885462 0
+83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-solid-900.ae7a564d.ttf1651289504625852958 0
 85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/mode/idl1651286923214495356 1
 100/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/src/font/icons/link.svg1651286923694515903 0
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/transformer-js/src1651283022095457581 1
@@ -10699,7 +10700,7 @@
 106/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/addon/lint/javascript-lint.js1651286923222495698 0
 93/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/inputmask/dist/inputmask.js1651286921882438336 0
 88/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/crypto-js/pad-pkcs7.js1651286921918439877 0
-79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.34b2f162.js.map1651287238939890685 0
+79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.34b2f162.js.map1651289504769853993 0
 108/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/pace-progress/themes/red1651286925738603390 1
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/select2/dist/js/i18n/bn.js1651286921990442959 0
 87/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/crypto-js/hmac-md5.js1651286921742432342 0
@@ -11055,7 +11056,7 @@
 102/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/lmdb/dependencies/lz4/lib/.npmignore1651283022107458020 0
 94/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/moment/min/moment.min.js.map1651286923654514191 0
 86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/acorn/dist/acorn.mjs1651283022243462984 0
-85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-regular-400.462c25a0.svg1651287238895888831 0
+85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-regular-400.462c25a0.svg1651289504721853648 0
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/moment/src/locale/fr-ch.js1651286922838479261 0
 89/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/codemirror/package.json1651286923682515389 0
 106/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@foliojs-fork/fontkit/src/tables/bsln.js1651286921730431829 0
@@ -11308,6 +11309,7 @@
 105/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/src/font/icons/row-below.svg1651286923702516246 0
 118/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/bootstrap-colorpicker/node_modules/bootstrap/dist/js1651286923290498609 1
 110/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/summernote/dist/lang/summernote-lt-LV.js.map1651286923382502548 0
+74/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/search-items.html1651287665169416257 0
 115/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/caniuse-lite/data/features/hardwareconcurrency.js1651283022879486199 0
 91/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/css-select/lib/general.js1651283022059456268 0
 113/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/jqvmap-novulnerability/examples/images/flag.png1651286923002486282 0
@@ -11882,7 +11884,6 @@
 98/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@popperjs/core/lib/enums.js.flow1651286921510422410 0
 130/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js1651286925386588324 0
 85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/moment/locale/ne.js1651286923414503917 0
-70/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/template.html1651221289955000000 0
 76/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/acorn-walk1651286921502422067 1
 116/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/filterizr/build/static/css/main.d60f3f76.chunk.css1651286922138449295 0
 85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/moment/locale/mn.js1651286923234496212 0
@@ -12679,7 +12680,7 @@
 98/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/toastr/nuget/toastr.1.1.4.nuspec1651286921694430287 0
 127/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/regular/calendar-times.svg1651286923482506828 0
 88/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/package.json1651286923710516588 0
-80/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.7fdcaa95.css.map1651287238915889674 0
+80/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.7fdcaa95.css.map1651289504741853792 0
 97/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/runtime-js/package.json1651283022347466779 0
 85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/crypto-js/sha384.js1651286922094447411 0
 132/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@lgaitan/pace-progress/dist/themes/blue/pace-theme-loading-bar.css1651286922194451692 0
@@ -13076,7 +13077,7 @@
 97/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/popper.js/src/utils/debounce.js1651286922610469501 0
 120/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/solid/cart-plus.svg1651286923514508198 0
 123/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/050-modules.md1651283022539473788 0
-75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.ca39cc5e.js1651287498854793212 0
+75/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.ca39cc5e.js1651289836482799950 0
 126/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/060-contribute.md1651283022559474518 0
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/dropzone/src/dropzone.scss1651286922202452035 0
 95/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/workers/lib/Worker.js1651283022323465904 0
@@ -13643,7 +13644,7 @@
 133/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/package-manager/test/fixtures/packages/foo-2.0/package.json1651283022511472766 0
 152/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/browser-resolve/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/alt.js1651286921826435938 0
 158/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/browser-resolve/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/package.json1651286921826435938 0
-79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.425f4cf3.js.map1651287238939890685 0
+79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/index.425f4cf3.js.map1651289504769853993 0
 152/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/browser-resolve/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/ref.js1651286921830436110 0
 152/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/browser-resolve/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/deeper1651286921878438165 1
 82/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/json5/lib/cli.js1651283021875449544 0
@@ -14464,7 +14465,7 @@
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/transformer-js/lib1651283022091457436 1
 122/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/filterizr/dist/types/interfaces/RawOptionsCallbacks.d.ts1651286923338500664 0
 90/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/watcher/src/unix1651283022135459041 1
-67/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/index.html1651287498246767796 0
+67/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/src/index.html1651288135419751333 0
 97/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/watcher/src/unix/fts.cc1651283022119458458 0
 121/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@fortawesome/fontawesome-free/svgs/brands/pinterest.svg1651286923886524121 0
 77/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/css1651283021971453053 1
@@ -15709,7 +15710,7 @@
 103/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/moment/locale/et.js1651286925130577368 0
 82/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/msgpackr/pack.js1651283022163460063 0
 79/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/msgpackr/dist1651283022175460502 1
-85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-regular-400.a083c54a.ttf1651287238799884787 0
+85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-regular-400.a083c54a.ttf1651289504617852901 0
 88/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/msgpackr/dist/index.js1651283022091457436 0
 87/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/msgpackr/package.json1651283022223462254 0
 84/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/msgpackr/unpack.js1651283022195461232 0
@@ -16494,7 +16495,7 @@
 92/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/build/scss/parts1651286924018529772 1
 117/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/optimizer-htmlnano/lib/HTMLNanoOptimizer.js1651283021927451445 0
 126/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/fontawesome-free/webfonts/fa-solid-900.eot1651286924790562815 0
-86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-brands-400.d928e68d.woff21651287238803884957 0
+86/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-brands-400.d928e68d.woff21651289504617852901 0
 117/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/build/scss/parts/adminlte.components.scss1651286924018529772 0
 85/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/commander/Readme.md1651283022091457436 0
 132/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/pace-progress/themes/purple/pace-theme-flash.css1651286925730603048 0
@@ -17195,7 +17196,7 @@
 114/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/flag-icon-css/flags/4x3/tm.svg1651286925894610067 0
 114/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/escodegen/node_modules/source-map/lib/source-map1651286921906439363 1
 122/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/jquery-mousewheel/jquery.mousewheel.js1651286925582596713 0
-83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-solid-900.aa4b1012.eot1651287238815885462 0
+83/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/dist/fa-solid-900.aa4b1012.eot1651289504625852958 0
 111/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/jquery-mousewheel/README.md1651286925582596713 0
 113/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/admin-lte/plugins/sweetalert2-theme-bootstrap-41651286925770604759 1
 102/home/lahiru/Dep/WEB/project-pos-system/pos-frontEnd/node_modules/@parcel/watcher/src/PromiseRunner.hh1651283022283464444 0
